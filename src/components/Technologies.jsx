@@ -59,7 +59,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img src="src/assets/linux.png" className="w-18 h-18" alt="linux" />
+          <img src="/linux.png" className="w-18 h-18" alt="linux" />
         </motion.div>
         <motion.div
           variants={iconVarianrs(3)}
