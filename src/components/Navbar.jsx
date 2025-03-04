@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/habi-logo.png'
+import logo from '/habi-logo.png'
 import { FaLinkedin } from 'react-icons/fa'
 import { FaGithub } from 'react-icons/fa'
 import { FaSquareXTwitter } from 'react-icons/fa6'

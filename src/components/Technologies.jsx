@@ -67,7 +67,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img src="src/assets/mysql.png" className="w-18 h-18" alt="linux" />
+          <img src="/mysql.png" className="w-18 h-18" alt="linux" />
         </motion.div>
         <motion.div
           variants={iconVarianrs(5)}
@@ -75,7 +75,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img src="src/assets/python.png" className="w-18 h-18" alt="linux" />
+          <img src="/python.png" className="w-18 h-18" alt="linux" />
         </motion.div>
         <motion.div
           variants={iconVarianrs(2)}
@@ -126,7 +126,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img src="src/assets/php.png" alt="" className="w-18 h-18" />
+          <img src="/php.png" alt="" className="w-18 h-18" />
         </motion.div>
         <motion.div
           variants={iconVarianrs(1)}
@@ -142,7 +142,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img src="src/assets/java.png" alt="" className="w-18 h-18" />
+          <img src="/java.png" alt="" className="w-18 h-18" />
         </motion.div>
         <motion.div
           variants={iconVarianrs(2)}
@@ -159,7 +159,7 @@ const Technologies = () => {
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
           <img
-            src="src/assets/symfony.png"
+            src="/symfony.png"
             alt="symfony"
             className="w-18 h-18"
           />
@@ -170,7 +170,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img src="src/assets/csharp.png" className="w-18 h-18" />
+          <img src="/csharp.png" className="w-18 h-18" />
         </motion.div>
         <motion.div
           variants={iconVarianrs(3)}
@@ -178,7 +178,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img src="src/assets/C++.png" className="w-18 h-18" />
+          <img src="/C++.png" className="w-18 h-18" />
         </motion.div>
         <motion.div
           variants={iconVarianrs(2)}
@@ -186,7 +186,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img src="src/assets/C.png" className="w-18 h-18" />
+          <img src="/C.png" className="w-18 h-18" />
         </motion.div>
       </motion.div>
     </div>
